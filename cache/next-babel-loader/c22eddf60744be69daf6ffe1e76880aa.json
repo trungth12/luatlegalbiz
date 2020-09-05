@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  openGraph: {\n    type: 'website',\n    locale: 'en_IE',\n    url: process.env.VERCEL_URL,\n    site_name: 'Luatlegalbiz'\n  },\n  twitter: {\n    handle: '@luatlegalbiz',\n    cardType: 'summary_large_image'\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
